@@ -5,4 +5,5 @@ app_name = 'core'
 
 urlpatterns = [
    url(r'^$',index,name='index')
+   #hola
 ]
